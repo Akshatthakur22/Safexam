@@ -49,6 +49,20 @@ into a unified assessment ecosystem.
 
 ---
 
+## 🎥 Product Demonstration
+
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=c1e6o1lkCdo">
+  <img src="https://img.youtube.com/vi/c1e6o1lkCdo/maxresdefault.jpg"
+       alt="SafeExam Demo"
+       width="900">
+</a>
+
+### ▶️ Click to Watch Full Demo
+
+</div>
+
 ## ✨ Core Features
 
 <table>
