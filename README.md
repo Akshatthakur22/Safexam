@@ -55,7 +55,7 @@ into a unified assessment ecosystem.
 
 <a href="https://www.youtube.com/watch?v=c1e6o1lkCdo" target="_blank">
   <img
-    src="https://img.youtube.com/vi/c1e6o1lkCdo/maxresdefault.jpg"
+    src="https://safexam.in/"
     alt="SafeExam Platform Demo"
     width="900"
   />
