@@ -53,15 +53,37 @@ into a unified assessment ecosystem.
 
 <div align="center">
 
-<a href="https://www.youtube.com/watch?v=c1e6o1lkCdo">
-  <img src="https://img.youtube.com/vi/c1e6o1lkCdo/maxresdefault.jpg"
-       alt="SafeExam Demo"
-       width="900">
+<a href="https://www.youtube.com/watch?v=c1e6o1lkCdo" target="_blank">
+  <img
+    src="https://img.youtube.com/vi/c1e6o1lkCdo/maxresdefault.jpg"
+    alt="SafeExam Platform Demo"
+    width="900"
+  />
 </a>
 
-### ▶️ Click to Watch Full Demo
+<br/>
+
+### ▶️ Watch SafeExam in Action
+
+**Complete platform walkthrough covering:**
+
+📝 Exam Creation & Management
+💻 Coding Assessment Environment
+🤖 AI-Assisted Question Generation
+📊 Analytics & Reporting Dashboard
+🛡️ Assessment Integrity Features
+⚡ Student Assessment Experience
+
+<br/>
+
+<a href="https://www.youtube.com/watch?v=c1e6o1lkCdo">
+  <img src="https://img.shields.io/badge/▶️_Watch_Demo-YouTube-red?style=for-the-badge" />
+</a>
 
 </div>
+
+---
+
 
 ## ✨ Core Features
 
